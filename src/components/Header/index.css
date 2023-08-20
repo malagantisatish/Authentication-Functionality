@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+.list-elements {
+  display: flex;
+  list-style: none;
+}
+
+.item {
+  padding: 10px;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
